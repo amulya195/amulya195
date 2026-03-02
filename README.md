@@ -121,18 +121,18 @@ Stack: Django | Python | SQLite | JavaScript
 <p align="center">
 
 <a href="mailto:amulyashreem@gmail.com">
-<img src="https://img.shields.io/badge/Email-amulyashreem@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="tel:6360895851">
-<img src="https://img.shields.io/badge/Phone-6360895851-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Phone-Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/amulya-shree-m195/" target="_blank">
+<a href="https://www.linkedin.com/in/amulya-shree-m195/">
 <img src="https://img.shields.io/badge/LinkedIn-Amulya%20Shree%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/amulya195" target="_blank">
+<a href="https://github.com/amulya195">
 <img src="https://img.shields.io/badge/GitHub-amulya195-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
