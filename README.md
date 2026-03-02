@@ -28,7 +28,6 @@ Focused on:
 - 📊 Data Visualization & Analytics  
 - 🤖 AI-integrated Systems  
 
-Not just coding.  
 **Engineering complete solutions.**
 
 ---
@@ -68,14 +67,29 @@ Not just coding.
 <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
 </p>
 
-## 📊 Analytics
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amulya195&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amulya195&theme=tokyonight" />
 </p>
 
-## ⚙ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amulya195&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/amulya195?theme=dark&font=Fira%20Code&ext=contest"/>
 </p>
 
 ---
@@ -83,39 +97,23 @@ Not just coding.
 # 🧬 Featured Systems
 
 ## 🔹 GradNet — Secure Campus Network
-Stack: Flutter | NestJS | PostgreSQL | Prisma | JWT  
+Flutter | NestJS | PostgreSQL | JWT  
 
 - Email-based authentication  
 - RBAC authorization  
 - Secure REST APIs  
-- Optimized schema design  
 
 ---
 
 ## 🔹 Finance Tracker — Smart Expense Manager
-Stack: Django | Python | SQLite | JavaScript  
+Django | Python | SQLite | JavaScript  
 
 - Categorized expense tracking  
 - Full CRUD operations  
 - Data visualization insights  
-- Responsive UI  
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amulya195&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulya195&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amulya195&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
----
 # 🌐 Connect With Me
 
 <p align="center">
@@ -143,7 +141,7 @@ Stack: Django | Python | SQLite | JavaScript
 # ⚡ Philosophy
 
 ```diff
-+ Think Beyond Code
-+ Build With Purpose
-+ Secure Every Layer
-+ Scale With Vision
++ Build With Clarity
++ Secure By Design
++ Scale Intelligently
++ Deliver With Impact
