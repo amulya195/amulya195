@@ -22,13 +22,13 @@
 I build secure, scalable, and production-ready full stack applications.
 
 Focused on:
-- ⚡ Clean Backend Architecture
-- 🔐 JWT & RBAC Security
-- 🌐 Modern Web Development
-- 📊 Data Visualization & Analytics
-- 🤖 AI-integrated Systems
+- ⚡ Clean Backend Architecture  
+- 🔐 JWT & RBAC Security  
+- 🌐 Modern Web Development  
+- 📊 Data Visualization & Analytics  
+- 🤖 AI-integrated Systems  
 
-Not just coding.
+Not just coding.  
 **Engineering complete solutions.**
 
 ---
@@ -84,6 +84,7 @@ Not just coding.
 
 ## 🔹 GradNet — Secure Campus Network
 Stack: Flutter | NestJS | PostgreSQL | Prisma | JWT  
+
 - Email-based authentication  
 - RBAC authorization  
 - Secure REST APIs  
@@ -93,6 +94,7 @@ Stack: Flutter | NestJS | PostgreSQL | Prisma | JWT
 
 ## 🔹 Finance Tracker — Smart Expense Manager
 Stack: Django | Python | SQLite | JavaScript  
+
 - Categorized expense tracking  
 - Full CRUD operations  
 - Data visualization insights  
@@ -113,42 +115,30 @@ Stack: Django | Python | SQLite | JavaScript
 
 ---
 
-# 🏆 LeetCode Stats (Auto Updating)
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/amulya195?theme=dark&font=Fira%20Code&ext=contest"/>
+<a href="mailto:amulyashreem@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amulya-shreem195/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/amulya195">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
 
-# 🧬 3D Contribution Snake Animation
+# ⚡ Philosophy
 
-Add this workflow after README:
-
-Create file:
-.github/workflows/snake.yml
-
-Paste:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: amulya195
-          outputs: dist/github-contribution-grid-snake.svg
-
-Then add this at bottom of README:
-
-```markdown
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amulya195/amulya195/output/github-contribution-grid-snake.svg" />
-</p>
+```diff
++ Think Beyond Code
++ Build With Purpose
++ Secure Every Layer
++ Scale With Vision
