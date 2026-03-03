@@ -86,12 +86,6 @@ Focused on:
 
 ---
 
-# 🏆 LeetCode Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/amulya195?theme=dark&font=Fira%20Code&ext=contest"/>
-</p>
-
 ---
 
 # 🧬 Featured Systems
