@@ -22,7 +22,7 @@
 I build secure, scalable, and production-ready full stack applications.
 
 Focused on:
-- ⚡ Clean Backend Architecture  
+- ⚡ Aspiring Frontend Engineer
 - 🔐 JWT & RBAC Security  
 - 🌐 Modern Web Development  
 - 📊 Data Visualization & Analytics  
