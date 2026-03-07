@@ -11,9 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;Designing+Secure+Backend+Systems;Exploring+AI+%26+Data+Analytics;Turning+Ideas+Into+Impactful+Products" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amulya195&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
+
 
 ---
 
