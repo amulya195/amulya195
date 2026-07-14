@@ -36,7 +36,7 @@ Focused on:
 |-----------|----------|
 | 💻 Full Stack | Python · Django · JavaScript · Flutter · NestJS |
 | 🧠 DSA | Medium Level · Core Basics |
-| 🗄 Database | PostgreSQL · SQLite |
+| 🗄 Database | SQL , Prisma ORM |
 | 📊 Analytics | Power BI |
 | 🔐 Security | JWT Authentication · RBAC |
 
