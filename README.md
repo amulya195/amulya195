@@ -39,7 +39,7 @@ I'm **Amulya Shree M**, a Computer Science Engineering student at
 
 I enjoy building systems at the intersection of:
 
-> **Artificial Intelligence × Backend Engineering × Cybersecurity × Data**
+> **Artificial Intelligence × Finance × Cybersecurity × Data**
 
 My primary interests include **AI security, anomaly detection, LLM systems, REST API development, scalable backend architectures, financial analytics, and full-stack applications**.
 
