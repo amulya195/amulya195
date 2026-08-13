@@ -229,14 +229,7 @@ Designed a solution focused on:
 - Participated in CSI technical initiatives
 - Helped organize **Apticore**, a technical aptitude event
 
-### 🌱 Community Outreach Volunteer
 
-Participated in a college-led government school outreach initiative involving:
-
-- Interactive learning sessions
-- Student engagement activities
-- Educational support
-- Distribution of stationery kits
 
 ### 🧘 National-Level Yoga Athlete
 
@@ -246,21 +239,7 @@ Represented school at the **CBSE National Yoga Championship**, demonstrating dis
 
 # 📜 Certifications & Professional Development
 
-### 💼 JPMorgan Chase & Co. — Investment Banking Job Simulation
-**Forage | 2026**
 
-- Financial statement analysis
-- Valuation modelling
-- M&A simulation
-- Pitch book development
-
-### ⚖️ White & Case — UK Banking & Finance Job Simulation
-**Forage | 2026**
-
-- Board minutes
-- Summary prospectus
-- IPO process
-- UK banking and finance legal context
 
 ### 🤖 Getting Started with Generative AI
 **IBM SkillsBuild | 2026**
