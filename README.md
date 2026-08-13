@@ -11,7 +11,7 @@
 </h2>
 
 <p align="center">
-  <b>Computer Science Engineering Student | AI/ML Enthusiast | Backend Developer | Security-Focused Engineer</b>
+  <b>Computer Science Engineering Student | AI/ML Enthusiast | Security-Focused Engineer</b>
 </p>
 
 <p align="center">
