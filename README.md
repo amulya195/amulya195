@@ -7,7 +7,7 @@
 </p>
 
 <h2 align="center">
-  AI • Backend • Full Stack • Secure Systems
+  AI • Full Stack • Secure Systems
 </h2>
 
 <p align="center">
